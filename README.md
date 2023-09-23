@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying on **University of Macau**
 - 🌱 I’m currently learning **Robotics**
-- 👯 I hope to work on **multi-agent systems** in the future.
+- 👯 I’m currently working on **SLAM** 
 - 💬 Ask me about Python, C, and my projects
 - 📫 How to reach me: **mc35211@um.edu.mo**
 - 😄 You may like [My Website](https://www.machy.tech/)
