@@ -1,7 +1,6 @@
 # Hello! I'm Yin Kaijie <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently studying on **University of Macau**
-- 🌱 I’m currently learning **Robotics and CV**
 - 👯 I’m currently working on **Efficient AI, Robotics** 
 - 💬 Ask me about Python, C, and my projects
 - 📫 How to reach me: **mc35211@um.edu.mo**
