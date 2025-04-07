@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying on **University of Macau**
 - 🌱 I’m currently learning **Robotics and CV**
-- 👯 I’m currently working on **Efficient AI** 
+- 👯 I’m currently working on **Efficient AI, Robotics** 
 - 💬 Ask me about Python, C, and my projects
 - 📫 How to reach me: **mc35211@um.edu.mo**
 - ⚡ Fun fact: **Switch, Photography**
