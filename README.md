@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying on **University of Macau**
 - 👯 I’m currently working on **Efficient AI, Robotics** 
 - 💬 Ask me about Python, C, and my projects
-- 📫 How to reach me: **mc35211@um.edu.mo**
+- 📫 How to reach me: **yin.kaijie@connect.um.edu.mo**
 - ⚡ Fun fact: **Switch, Photography**
 
 # About My Github
