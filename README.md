@@ -6,9 +6,6 @@
 - 📫 How to reach me: **k-yin@mi.t.u-tokyo.ac.jp**
 - ⚡ Fun fact: **Switch, Photography, TCG**
 
-# About My Github
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exaids66)](https://github.com/exaids66/github-readme-stats)
 
 # My Skill Set  
 
